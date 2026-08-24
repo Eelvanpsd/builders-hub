@@ -61,7 +61,7 @@ const TOOLS_RAW: ToolCard[] = [
   // ── Primary Network ──────────────────────────────────────
   {
     name: 'Testnet Faucet',
-    description: 'Get free testnet AVAX for development and testing.',
+    description: 'Get free testnet AVAX, L1 native coins and ERC-20 tokens for development and testing.',
     path: '/console/primary-network/faucet',
     category: 'Primary Network',
     icon: Droplets,
